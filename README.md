@@ -1,3 +1,1 @@
 Edutech_Solution_FullStack_Task_1_NewURL.pdf
-index.html
-style.css
